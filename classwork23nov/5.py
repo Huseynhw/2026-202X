@@ -13,4 +13,4 @@ def pick_movie(movies, genre):
     return rated_movies
 
 
-print(pick_movie(movies, "фантастика"))
+print(pick_movie(movies, "фантастика")
